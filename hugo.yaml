@@ -57,7 +57,7 @@ params:
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
-  # disableThemeToggle: true
+  # disablmainsectionseThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: true
   disableSpecial1stPost: false
@@ -76,7 +76,7 @@ params:
     enabled: true
     title: Prateek Yadu
     subtitle: "Hi, my name is Prateek 👋. I am a Software Engineer Intern at Xcel Innovations and have around 1 year of experience. In the past year I've gained hands-on experience in development, deployment, and Linux administration. I have worked on real-world projects as part of a data security product. I integrated and worked with tools like Loki, Prometheus, Node Exporter, Zeek and Rclone, all connecting to Grafana for monitoring. As an intern, I independently developed and deployed a VPN server to ensure seamless access for employees and clients. I'm deeply passionate about learning Linux, infrastructure and networking. "
-    imageTitle: Pratee Yadu
+    imageTitle: Prateek Yadu
     imageUrl: author.jpeg
     imageWidth: 140
     imageHeight: 140
@@ -103,8 +103,8 @@ params:
       title: View me on LinkedIn
       url: "https://www.linkedin.com/in/prateek-yadu"
     - name: email
-      title: Wanna hire? Mail Me
-      url: "mailto:prateekyadudotdev@gmail.com"
+      title: Wanna connect? Mail Me
+      url: "mailto:contact@prateekyadu.com"
 
 
 
