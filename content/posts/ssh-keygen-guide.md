@@ -2,7 +2,7 @@
 author: "Prateek Yadu"
 title: "[Security Matters #1]: Introduction to SSH Keys."
 date: "2025-09-27"
-description: "This blog is a part of a series called Security Matters. Here I will cover all of the topics which are essential from a security perspective. In this blog I will cover all about SSH keys, what are they? why use them? and what are the advantages of using SSH Keys." 
+description: "This blog is a part of a series called Security Matters. Here, I will cover all the topics which are essential from a security perspective. In this blog, I will cover all about SSH keys, what are they? why use them? and what are the advantages of using SSH Keys." 
 tags: ["SSH", "Security", "Authentication", "Keys"]
 categories: ["linux"]
 series: ["Security Matters"]
