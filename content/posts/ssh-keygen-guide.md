@@ -33,7 +33,7 @@ Password based login is generally not recommended as it brings security problems
 
 SSH Key is a 2 paired key used to authenticate a user into the server. The public key remains in the server while the private key resides in the client's PC. When user goes to the server to login, the server matches the public and private key and lets you login to the server without any use of password.
 
-SSH based login is recommended as it bypasses the problems we face in password based login.
+Key based login is recommended as it bypasses the problems we face in password based login.
 
 ### How to setup SSH Keys
 
